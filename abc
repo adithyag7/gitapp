@@ -1,3 +1,5 @@
-am writing only ten lines
-written 
-am writing nect lines
+word = "devops"
+r_s = ""
+for char in word:
+r_s = char + r_s
+print(r_s)
