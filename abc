@@ -3,3 +3,4 @@ r_s = ""
 for char in word:
 r_s = char + r_s
 print(r_s)
+The final output was ======= spoved
